@@ -1,0 +1,23 @@
+{
+  "configVersion": 1,
+  "minRequiredVersion": "1.0.0",
+  "title": "🎉 New Update Available!",
+  "message": "New levels, themes, and logic challenges are waiting for you. Update now to continue your journey.",
+  "adsEnabled": {
+    "banner": true,
+    "interstitial": true,
+    "rewarded": true
+  },
+  "interstitial": {
+    "levelsBetweenAds": 4,
+    "minimumCooldownSeconds": 160
+  },
+  "rewarded": {
+    "dailyLimit": 15
+  },
+  "internetRequired": false,
+  "storeUrls": {
+    "android": "https://play.google.com/store/apps/details?id=com.ocensoft.fillthebox",
+    "ios": "https://apps.apple.com/app/idYOUR_APPLE_ID"
+  }
+}
