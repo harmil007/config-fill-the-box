@@ -4,9 +4,9 @@
   "title": "🎉 New Update Available!",
   "message": "New levels, themes, and logic challenges are waiting for you. Update now to continue your journey.",
   "adsEnabled": {
-    "banner": true,
-    "interstitial": true,
-    "rewarded": true
+    "banner": false,
+    "interstitial": false,
+    "rewarded": false
   },
   "interstitial": {
     "levelsBetweenAds": 20,
