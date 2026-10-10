@@ -5,7 +5,7 @@
   "message": "New levels, New game, and logic challenges are waiting for you. Update now to continue your journey.",
   "adsEnabled": {
     "banner": true,
-    "interstitial": false,
+    "interstitial": true,
     "rewarded": true
   },
   "interstitial": {
